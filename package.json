@@ -7,8 +7,14 @@
     "test": "jest"
   },
   "dependencies": {
+    "axios": "^0.17.1",
+    "native-base": "^2.3.8",
     "react": "16.2.0",
-    "react-native": "0.53.0"
+    "react-native": "0.53.0",
+    "react-native-firebase": "^3.2.4",
+    "react-redux": "^5.0.6",
+    "react-router-native": "^4.2.0",
+    "redux": "^3.7.2"
   },
   "devDependencies": {
     "babel-jest": "22.2.2",
