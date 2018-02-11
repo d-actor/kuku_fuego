@@ -1,0 +1,3 @@
+rootProject.name = 'KukuFire2'
+
+include ':app'
